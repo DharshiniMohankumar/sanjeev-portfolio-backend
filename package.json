@@ -1,0 +1,16 @@
+{
+    "name": "sanjeev-portfolio-backend",
+    "version": "1.0.0",
+    "description": "Backend for Sanjeev's Portfolio",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "pg": "^8.7.1"
+    }
+  }
+  
